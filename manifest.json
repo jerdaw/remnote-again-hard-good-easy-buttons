@@ -1,0 +1,22 @@
+{
+    "manifestVersion": 1,
+    "id": "jerdaw-remnote-again-hard-good-easy-buttons",
+    "name": "Again, Hard, Good, and Easy Buttons",
+    "author": "jerdaw",
+    "repoUrl": "https://github.com/jerdaw/remnote-again-hard-good-easy-buttons",
+    "description": "Changes Remnote button texts to Again, Hard, Good, and Easy (Anki defaults)",
+    "theme": [],
+    "enableOnMobile": true,
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+    },
+    "requestNative": false,
+    "requiredScopes": [
+      {
+        "type": "All",
+        "level": "Read"
+      }
+    ]
+  }
